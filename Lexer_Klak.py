@@ -303,7 +303,9 @@ class Lexer:
                             self.advance()
                             if self.current_char == 's': 
                                 self.advance()
-                                return (["ilabas", 'KEYWORD'])
+                                if self.current_char == None or self.current_char in " \t":
+                                    return (["ilabas", 'KEYWORD'])
+                                else: return self.make_Identifier("ilabas")
                             else: return self.make_Identifier("ilaba")
                         else: return self.make_Identifier("ilab")
                     else: return self.make_Identifier("ila")          
@@ -328,7 +330,9 @@ class Lexer:
                                         self.advance()
                                         if self.current_char == 'a': 
                                             self.advance()
-                                            return (["labasmuna", 'KEYWORD'])
+                                            if self.current_char == None or self.current_char in " \t":
+                                                return (["labasmuna", 'KEYWORD'])
+                                            else: return self.make_Identifier("labasmuna")
                                         else: return self.make_Identifier("labasmun")
                                     else: return self.make_Identifier("labasmu")
                                 else: return self.make_Identifier("labasm")
@@ -346,7 +350,9 @@ class Lexer:
                     self.advance()
                     if self.current_char == 'a': 
                         self.advance()
-                        return (["wala", 'KEYWORD'])
+                        if self.current_char == None or self.current_char in " \t":
+                            return (["wala", 'KEYWORD'])
+                        else: return self.make_Identifier("wala")   
                     else: return self.make_Identifier("wal")          
                 else: return self.make_Identifier("wa")
             else: return self.make_Identifier("w")
@@ -359,7 +365,9 @@ class Lexer:
                     self.advance()
                     if self.current_char == 'g': 
                         self.advance()
-                        return (["wala", 'KEYWORD'])
+                        if self.current_char == None or self.current_char in " \t":
+                            return (["wala", 'KEYWORD'])
+                        else: return self.make_Identifier("kung")  
                     else: return self.make_Identifier("kun")          
                 else: return self.make_Identifier("ku")
             else: return self.make_Identifier("k")
