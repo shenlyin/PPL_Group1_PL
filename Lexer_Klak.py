@@ -1,5 +1,5 @@
 DIGITS = "0123456789"      #Character Sets Comparisons
-LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzHAHA"
+LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
 OSYMBOLS = "~`!@#$&_\\:"
 IDLIST = DIGITS + LETTERS + "_"
 
