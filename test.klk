@@ -1,0 +1,94 @@
+
+..IDENTIFIERS 
+numero a = 3;
+salita b = "HelloWorld";
+karakter c = 's';
+wala pal Pera(numero a)
+numero pal Function(numero a)
+klase Student
+
+..KEYWORDS
+edi
+edikung    
+ilimbag
+ilimbags
+lagyan
+habang
+
+..RESERVED WORDS
+numero
+lutang
+salita 
+karakter
+bul
+sira
+tuloy
+kabtol
+pindutan
+ilabas
+labasmuna
+wala
+kung
+subok
+puwera
+pal
+klase
+totoo 
+mali
+
+..CONSTANT
+1
+2.3
+‘a’
+totoo 
+mali
+
+..NOISE WORDS
+ay
+simula
+wakas
+kaunaunahan
+kaduluduluhan
+puna
+
+..ARITHMETIC
++
+-
+*
+%
+/
+//
+^
+
+..BOOLEAN
+<
+>
+<=
+>=
+==
+!=
++=
+-=
+
+..LOGICAL
+at
+oh
+hindi
+
+..DELIMETER AND BRACKET
+,
+[
+]
+(
+)
+
+..COMMENTS
+.. comment
+... multi 
+comment ...
+
+9h
+_
+9.12.12
+'lahat'
+

@@ -1,0 +1,2758 @@
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+numero              INT_DECLARATION
+i                   IDENTIFIER
+=                   OPE_ASS
+2                   INTEGER
+habang              KEYWORD
+i                   IDENTIFIER
+<=                  OPE_LTEQUAL
+2                   INTEGER
+[                   OPEN_SQR
+i                   IDENTIFIER
++=                  OPE_ADDASS
+1                   INTEGER
+;                   SEMICOLON
+ilimbags            KEYWORD
+(                   OPEN_PAREN
+"                   OPEN_DOUBLEQT
+Hello               STRING
+"                   CLOSE_DOUBLEQT
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+numero              INT_DECLARATION
+i                   IDENTIFIER
+=                   OPE_ASS
+2                   INTEGER
+habang              KEYWORD
+i                   IDENTIFIER
+<=                  OPE_LTEQUAL
+2                   INTEGER
+[                   OPEN_SQR
+i                   IDENTIFIER
++=                  OPE_ADDASS
+1                   INTEGER
+;                   SEMICOLON
+ilimbags            KEYWORD
+(                   OPEN_PAREN
+"                   OPEN_DOUBLEQT
+Hello               STRING
+"                   CLOSE_DOUBLEQT
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+numero              INT_DECLARATION
+i                   IDENTIFIER
+=                   OPE_ASS
+2                   INTEGER
+habang              KEYWORD
+i                   IDENTIFIER
+<=                  OPE_LTEQUAL
+2                   INTEGER
+[                   OPEN_SQR
+i                   IDENTIFIER
++=                  OPE_ADDASS
+1                   INTEGER
+;                   SEMICOLON
+ilimbags            KEYWORD
+(                   OPEN_PAREN
+"                   OPEN_DOUBLEQT
+Hello               STRING
+"                   CLOSE_DOUBLEQT
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+numero              INT_DECLARATION
+i                   IDENTIFIER
+=                   OPE_ASS
+2                   INTEGER
+habang              KEYWORD
+i                   IDENTIFIER
+<=                  OPE_LTEQUAL
+2                   INTEGER
+[                   OPEN_SQR
+i                   IDENTIFIER
++=                  OPE_ADDASS
+1                   INTEGER
+;                   SEMICOLON
+ilimbags            KEYWORD
+(                   OPEN_PAREN
+"                   OPEN_DOUBLEQT
+Hello               STRING
+"                   CLOSE_DOUBLEQT
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+numero              INT_DECLARATION
+i                   IDENTIFIER
+=                   OPE_ASS
+2                   INTEGER
+habang              KEYWORD
+i                   IDENTIFIER
+<=                  OPE_LTEQUAL
+2                   INTEGER
+[                   OPEN_SQR
+i                   IDENTIFIER
++=                  OPE_ADDASS
+1                   INTEGER
+;                   SEMICOLON
+ilimbags            KEYWORD
+(                   OPEN_PAREN
+"                   OPEN_DOUBLEQT
+Hello               STRING
+"                   CLOSE_DOUBLEQT
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+numero              INT_DECLARATION
+i                   IDENTIFIER
+=                   OPE_ASS
+2                   INTEGER
+habang              KEYWORD
+i                   IDENTIFIER
+<=                  OPE_LTEQUAL
+2                   INTEGER
+[                   OPEN_SQR
+i                   IDENTIFIER
++                   OPE_ADD
+=                   OPE_ASS
+1                   INTEGER
+;                   SEMICOLON
+ilimbags            KEYWORD
+(                   OPEN_PAREN
+"                   OPEN_DOUBLEQT
+Hello               STRING
+"                   CLOSE_DOUBLEQT
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+numero              INT_DECLARATION
+i                   IDENTIFIER
+=                   OPE_ASS
+2                   INTEGER
+habang              KEYWORD
+i                   IDENTIFIER
+<=                  OPE_LTEQUAL
+2                   INTEGER
+[                   OPEN_SQR
+i                   IDENTIFIER
++                   OPE_ADD
+=                   OPE_ASS
+1                   INTEGER
+;                   SEMICOLON
+ilimbags            KEYWORD
+(                   OPEN_PAREN
+"                   OPEN_DOUBLEQT
+Hello               STRING
+"                   CLOSE_DOUBLEQT
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+numero              INT_DECLARATION
+i                   IDENTIFIER
+=                   OPE_ASS
+2                   INTEGER
+habang              KEYWORD
+i                   IDENTIFIER
+<=                  OPE_LTEQUAL
+2                   INTEGER
+[                   OPEN_SQR
+i                   IDENTIFIER
++                   OPE_ADD
+=                   OPE_ASS
+1                   INTEGER
+;                   SEMICOLON
+ilimbags            KEYWORD
+(                   OPEN_PAREN
+"                   OPEN_DOUBLEQT
+Hello               STRING
+"                   CLOSE_DOUBLEQT
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+numero              INT_DECLARATION
+i                   IDENTIFIER
+=                   OPE_ASS
+2                   INTEGER
+habang              KEYWORD
+i                   IDENTIFIER
+<=                  OPE_LTEQUAL
+2                   INTEGER
+[                   OPEN_SQR
+i                   IDENTIFIER
++                   OPE_ADD
+=                   OPE_ASS
+1                   INTEGER
+;                   SEMICOLON
+...                 OPEN_MULTI_COMMENT
+...                 COMMENT
+ilimbags("Hello")]  COMMENT
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+numero              INT_DECLARATION
+i                   IDENTIFIER
+=                   OPE_ASS
+2                   INTEGER
+habang              KEYWORD
+i                   IDENTIFIER
+<=                  OPE_LTEQUAL
+2                   INTEGER
+[                   OPEN_SQR
+i                   IDENTIFIER
++                   OPE_ADD
+=                   OPE_ASS
+1                   INTEGER
+;                   SEMICOLON
+...                 OPEN_MULTI_COMMENT
+sss                 COMMENT
+...                 CLOSE_MULTI_COMMENT
+i                   IDENTIFIER
+ilimbags            KEYWORD
+(                   OPEN_PAREN
+"                   OPEN_DOUBLEQT
+Hello               STRING
+"                   CLOSE_DOUBLEQT
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+numero              INT_DECLARATION
+i                   IDENTIFIER
+=                   OPE_ASS
+2                   INTEGER
+habang              KEYWORD
+i                   IDENTIFIER
+<=                  OPE_LTEQUAL
+2                   INTEGER
+[                   OPEN_SQR
+i                   IDENTIFIER
++                   OPE_ADD
+=                   OPE_ASS
+1                   INTEGER
+;                   SEMICOLON
+<                   OPE_LT
+ilimbags            KEYWORD
+(                   OPEN_PAREN
+"                   OPEN_DOUBLEQT
+Hello               STRING
+"                   CLOSE_DOUBLEQT
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+numero              INT_DECLARATION
+i                   IDENTIFIER
+=                   OPE_ASS
+2                   INTEGER
+habang              KEYWORD
+i                   IDENTIFIER
+<=                  OPE_LTEQUAL
+2                   INTEGER
+[                   OPEN_SQR
+i                   IDENTIFIER
++                   OPE_ADD
+=                   OPE_ASS
+1                   INTEGER
+;                   SEMICOLON
+<                   OPE_LT
+ilimbags            KEYWORD
+(                   OPEN_PAREN
+"                   OPEN_DOUBLEQT
+Hello               STRING
+"                   CLOSE_DOUBLEQT
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+numero              INT_DECLARATION
+i                   IDENTIFIER
+=                   OPE_ASS
+2                   INTEGER
+habang              KEYWORD
+i                   IDENTIFIER
+<=                  OPE_LTEQUAL
+2                   INTEGER
+[                   OPEN_SQR
+i                   IDENTIFIER
+-                   OPE_SUB
+=                   OPE_ASS
+1                   INTEGER
+;                   SEMICOLON
+<                   OPE_LT
+ilimbags            KEYWORD
+(                   OPEN_PAREN
+"                   OPEN_DOUBLEQT
+Hello               STRING
+"                   CLOSE_DOUBLEQT
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+numero              INT_DECLARATION
+i                   IDENTIFIER
+=                   OPE_ASS
+2                   INTEGER
+habang              KEYWORD
+i                   IDENTIFIER
+<=                  OPE_LTEQUAL
+2                   INTEGER
+[                   OPEN_SQR
+i                   IDENTIFIER
+-                   OPE_SUB
+=                   OPE_ASS
+1                   INTEGER
+;                   SEMICOLON
+'                   OPEN_SINGLEQT
+j                   CHARACTER
+'                   CLOSE_SINGLEQT
+22.2                FLOAT
+.                   UNRECOGNIZED
+2                   INTEGER
+ilimbags            KEYWORD
+(                   OPEN_PAREN
+"                   OPEN_DOUBLEQT
+Hello               STRING
+"                   CLOSE_DOUBLEQT
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+numero              INT_DECLARATION
+i                   IDENTIFIER
+=                   OPE_ASS
+2                   INTEGER
+habang              KEYWORD
+i                   IDENTIFIER
+<=                  OPE_LTEQUAL
+2                   INTEGER
+[                   OPEN_SQR
+i                   IDENTIFIER
+-                   OPE_SUB
+=                   OPE_ASS
+1                   INTEGER
+;                   SEMICOLON
+'                   OPEN_SINGLEQT
+j                   CHARACTER
+'                   CLOSE_SINGLEQT
+a                   IDENTIFIER
+ilimbags            KEYWORD
+(                   OPEN_PAREN
+"                   OPEN_DOUBLEQT
+Hello               STRING
+"                   CLOSE_DOUBLEQT
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+numero              INT_DECLARATION
+i                   IDENTIFIER
+=                   OPE_ASS
+2                   INTEGER
+habang              KEYWORD
+i                   IDENTIFIER
+<=                  OPE_LTEQUAL
+2                   INTEGER
+[                   OPEN_SQR
+i                   IDENTIFIER
+-                   OPE_SUB
+=                   OPE_ASS
+1                   INTEGER
+;                   SEMICOLON
+'                   OPEN_SINGLEQT
+j                   CHARACTER
+'                   CLOSE_SINGLEQT
+a                   IDENTIFIER
+ilimbags            KEYWORD
+(                   OPEN_PAREN
+"                   OPEN_DOUBLEQT
+Hello               STRING
+"                   CLOSE_DOUBLEQT
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+numero              INT_DECLARATION
+i                   IDENTIFIER
+=                   OPE_ASS
+2                   INTEGER
+habang              KEYWORD
+i                   IDENTIFIER
+<=                  OPE_LTEQUAL
+2                   INTEGER
+[                   OPEN_SQR
+i                   IDENTIFIER
+-                   OPE_SUB
+=                   OPE_ASS
+1                   INTEGER
+;                   SEMICOLON
+'                   OPEN_SINGLEQT
+j                   CHARACTER
+'                   CLOSE_SINGLEQT
+a                   IDENTIFIER
+ilimbags            KEYWORD
+(                   OPEN_PAREN
+"                   OPEN_DOUBLEQT
+Hello               STRING
+"                   CLOSE_DOUBLEQT
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+<                   OPE_LT
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+dfsfdsfdsfsddf      IDENTIFIER
+<                   OPE_LT
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+dfsfdsfdsfsddf      IDENTIFIER
+<                   OPE_LT
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+dfsfdsfdsfsddf      IDENTIFIER
+<                   OPE_LT
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
++                   OPE_ADD
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
++                   OPE_ADD
++                   OPE_ADD
++                   OPE_ADD
+23131321323131231   INTEGER
++                   OPE_ADD
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+_                   UNRECOGNNIZED
++                   OPE_ADD
+_                   UNRECOGNNIZED
++                   OPE_ADD
+_                   UNRECOGNNIZED
++                   OPE_ADD
+_                   UNRECOGNNIZED
+23131321323131231   INTEGER
++                   OPE_ADD
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
++                   OPE_ADD
+=                   OPE_ASS
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
++                   OPE_ADD
+=                   OPE_ASS
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
++=                  OPE_ADDASS
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+...                 OPEN_MULTI_COMMENT
+...                 CLOSE_MULTI_COMMENT
+...                 CLOSE_MULTI_COMMENT
+..                  COMMENT
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+...                 OPEN_MULTI_COMMENT
+                    COMMENT
+...                 CLOSE_MULTI_COMMENT
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+...                 OPEN_MULTI_COMMENT
+...                 CLOSE_MULTI_COMMENT
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+...                 OPEN_MULTI_COMMENT
+heloosd sdsdsd  sdasdsa+COMMENT
+...                 CLOSE_MULTI_COMMENT
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+...                 OPEN_MULTI_COMMENT
+heloosd sdsdsd  sdasdsa+COMMENT
+...                 CLOSE_MULTI_COMMENT
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+...                 OPEN_MULTI_COMMENT
+heloosd sdsdsd  sdasdsa+COMMENT
+ss                  COMMENT
+...                 CLOSE_MULTI_COMMENT
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+...                 OPEN_MULTI_COMMENT
+heloosd sdsdsd  sdasdsa+COMMENT
+ss                  COMMENT
+...                 CLOSE_MULTI_COMMENT
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+...                 OPEN_MULTI_COMMENT
+heloosd sdsdsd  sdasdsa+COMMENT
+ss                  COMMENT
+...                 CLOSE_MULTI_COMMENT
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+...                 OPEN_MULTI_COMMENT
+heloosd sdsdsd  sdasdsa+COMMENT
+ss                  COMMENT
+...                 CLOSE_MULTI_COMMENT
+a                   IDENTIFIER
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+...                 OPEN_MULTI_COMMENT
+heloosd sdsdsd  sdasdsa+COMMENT
+ss                  COMMENT
+...                 CLOSE_MULTI_COMMENT
+a                   IDENTIFIER
+=                   OPE_ASS
+b                   IDENTIFIER
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+...                 OPEN_MULTI_COMMENT
+heloosd sdsdsd  sdasdsa+COMMENT
+ss                  COMMENT
+...                 CLOSE_MULTI_COMMENT
+a                   IDENTIFIER
+=                   OPE_ASS
+b                   IDENTIFIER
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+kaunaunahan         NOISE_WORD
+klase               RESERVED_WORD
+New_Class           IDENTIFIER
+[                   OPEN_SQR
+numero              INT_DECLARATION
+pal                 RESERVED_WORD
+Square              IDENTIFIER
+(                   OPEN_PAREN
+numero              INT_DECLARATION
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+[                   OPEN_SQR
+simula              NOISE_WORD
+a                   IDENTIFIER
+=                   OPE_ASS
+a                   IDENTIFIER
+^                   OPE_EXP
+2                   INTEGER
+ilimbag             KEYWORD
+(                   OPEN_PAREN
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+;                   SEMICOLON
+]                   CLOSE_SQR
+Square              IDENTIFIER
+(                   OPEN_PAREN
+4                   INTEGER
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+kaunaunahan         NOISE_WORD
+klase               RESERVED_WORD
+New_Class           IDENTIFIER
+[                   OPEN_SQR
+numero              INT_DECLARATION
+pal                 RESERVED_WORD
+Square              IDENTIFIER
+(                   OPEN_PAREN
+numero              INT_DECLARATION
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+[                   OPEN_SQR
+simula              NOISE_WORD
+a                   IDENTIFIER
+=                   OPE_ASS
+a                   IDENTIFIER
+^                   OPE_EXP
+2                   INTEGER
+ilimbag             KEYWORD
+(                   OPEN_PAREN
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+;                   SEMICOLON
+]                   CLOSE_SQR
+Square              IDENTIFIER
+(                   OPEN_PAREN
+4                   INTEGER
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+kaunaunahan         NOISE_WORD
+klase               RESERVED_WORD
+New_Class           IDENTIFIER
+[                   OPEN_SQR
+numero              INT_DECLARATION
+pal                 RESERVED_WORD
+Square              IDENTIFIER
+(                   OPEN_PAREN
+numero              INT_DECLARATION
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+[                   OPEN_SQR
+simula              NOISE_WORD
+a                   IDENTIFIER
+=                   OPE_ASS
+a                   IDENTIFIER
+^                   OPE_EXP
+2                   INTEGER
+ilimbag             KEYWORD
+(                   OPEN_PAREN
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+;                   SEMICOLON
+]                   CLOSE_SQR
+Square              IDENTIFIER
+(                   OPEN_PAREN
+4                   INTEGER
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+!                   UNRECOGNIZED
+!=                  OPE_NEQUALTO
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+kaunaunahan         NOISE_WORD
+klase               CLASS_DECLARATION
+New_Class           IDENTIFIER
+[                   OPEN_SQR
+numero              INT_DECLARATION
+pal                 FUNCTION_DECLARATION
+Square              IDENTIFIER
+(                   OPEN_PAREN
+numero              INT_DECLARATION
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+[                   OPEN_SQR
+simula              NOISE_WORD
+a                   IDENTIFIER
+=                   OPE_ASS
+a                   IDENTIFIER
+^                   OPE_EXP
+2                   INTEGER
+ilimbag             KEYWORD
+(                   OPEN_PAREN
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+;                   SEMICOLON
+]                   CLOSE_SQR
+Square              IDENTIFIER
+(                   OPEN_PAREN
+4                   INTEGER
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+kaunaunahan         NOISE_WORD
+klase               CLASS_DECLARATION
+New_Class           IDENTIFIER
+[                   OPEN_SQR
+numero              INT_DECLARATION
+pal                 FUNCTION_DECLARATION
+Square              IDENTIFIER
+(                   OPEN_PAREN
+numero              INT_DECLARATION
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+[                   OPEN_SQR
+simula              NOISE_WORD
+a                   IDENTIFIER
+=                   OPE_ASS
+a                   IDENTIFIER
+^                   OPE_EXP
+-                   OPE_NEG
+2                   INTEGER
+ilimbag             KEYWORD
+(                   OPEN_PAREN
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+;                   SEMICOLON
+]                   CLOSE_SQR
+Square              IDENTIFIER
+(                   OPEN_PAREN
+4                   INTEGER
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+kaunaunahan         NOISE_WORD
+klase               CLASS_DECLARATION
+New_Class           IDENTIFIER
+[                   OPEN_SQR
+numero              INT_DECLARATION
+pal                 FUNCTION_DECLARATION
+Square              IDENTIFIER
+(                   OPEN_PAREN
+numero              INT_DECLARATION
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+[                   OPEN_SQR
+simula              NOISE_WORD
+a                   IDENTIFIER
+=                   OPE_ASS
+a                   IDENTIFIER
+^                   OPE_EXP
+-                   OPE_NEG
+2                   INTEGER
+ilimbag             KEYWORD
+(                   OPEN_PAREN
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+;                   SEMICOLON
+]                   CLOSE_SQR
+Square              IDENTIFIER
+(                   OPEN_PAREN
+4                   INTEGER
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+kaunaunahan         NOISE_WORD
+klase               CLASS_DECLARATION
+New_Class           IDENTIFIER
+[                   OPEN_SQR
+numero              INT_DECLARATION
+pal                 FUNCTION_DECLARATION
+Square              IDENTIFIER
+(                   OPEN_PAREN
+numero              INT_DECLARATION
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+[                   OPEN_SQR
+simula              NOISE_WORD
+a                   IDENTIFIER
+=                   OPE_ASS
+a                   IDENTIFIER
+^                   OPE_EXP
+-                   OPE_SUB
+2                   INTEGER
+ilimbag             KEYWORD
+(                   OPEN_PAREN
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+;                   SEMICOLON
+]                   CLOSE_SQR
+Square              IDENTIFIER
+(                   OPEN_PAREN
+4                   INTEGER
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+kaunaunahan         NOISE_WORD
+klase               CLASS_DECLARATION
+New_Class           IDENTIFIER
+[                   OPEN_SQR
+numero              INT_DECLARATION
+pal                 FUNCTION_DECLARATION
+Square              IDENTIFIER
+(                   OPEN_PAREN
+numero              INT_DECLARATION
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+[                   OPEN_SQR
+simula              NOISE_WORD
+a                   IDENTIFIER
+=                   OPE_ASS
+a                   IDENTIFIER
+^                   OPE_EXP
+-                   OPE_SUB
+2                   INTEGER
+ilimbag             KEYWORD
+(                   OPEN_PAREN
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+;                   SEMICOLON
+]                   CLOSE_SQR
+Square              IDENTIFIER
+(                   OPEN_PAREN
+4                   INTEGER
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+kaunaunahan         NOISE_WORD
+klase               CLASS_DECLARATION
+New_Class           IDENTIFIER
+[                   OPEN_SQR
+numero              INT_DECLARATION
+pal                 FUNCTION_DECLARATION
+Square              IDENTIFIER
+(                   OPEN_PAREN
+numero              INT_DECLARATION
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+[                   OPEN_SQR
+simula              NOISE_WORD
+a                   IDENTIFIER
+=                   OPE_ASS
+a                   IDENTIFIER
+^                   OPE_EXP
+-                   OPE_SUB
+2                   INTEGER
+ilimbag             KEYWORD
+(                   OPEN_PAREN
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+;                   SEMICOLON
+]                   CLOSE_SQR
+Square              IDENTIFIER
+(                   OPEN_PAREN
+4                   INTEGER
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+kaunaunahan         NOISE_WORD
+klase               CLASS_DECLARATION
+New_Class           IDENTIFIER
+[                   OPEN_SQR
+numero              INT_DECLARATION
+pal                 FUNCTION_DECLARATION
+Square              IDENTIFIER
+(                   OPEN_PAREN
+numero              INT_DECLARATION
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+[                   OPEN_SQR
+simula              NOISE_WORD
+a                   IDENTIFIER
+=                   OPE_ASS
+a                   IDENTIFIER
+^                   OPE_EXP
+-                   OPE_SUB
+2                   INTEGER
+ilimbag             KEYWORD
+(                   OPEN_PAREN
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+;                   SEMICOLON
+]                   CLOSE_SQR
+Square              IDENTIFIER
+(                   OPEN_PAREN
+4                   INTEGER
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+kaunaunahan         NOISE_WORD
+klase               CLASS_DECLARATION
+New_Class           IDENTIFIER
+[                   OPEN_SQR
+numero              INT_DECLARATION
+pal                 FUNCTION_DECLARATION
+Square              IDENTIFIER
+(                   OPEN_PAREN
+numero              INT_DECLARATION
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+[                   OPEN_SQR
+simula              NOISE_WORD
+a                   IDENTIFIER
+=                   OPE_ASS
+a                   IDENTIFIER
+^                   OPE_EXP
+-                   OPE_NEG
+2                   INTEGER
+ilimbag             KEYWORD
+(                   OPEN_PAREN
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+;                   SEMICOLON
+]                   CLOSE_SQR
+Square              IDENTIFIER
+(                   OPEN_PAREN
+4                   INTEGER
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+kaunaunahan         NOISE_WORD
+klase               CLASS_DECLARATION
+New_Class           IDENTIFIER
+[                   OPEN_SQR
+numero              INT_DECLARATION
+pal                 FUNCTION_DECLARATION
+Square              IDENTIFIER
+(                   OPEN_PAREN
+numero              INT_DECLARATION
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+[                   OPEN_SQR
+simula              NOISE_WORD
+a                   IDENTIFIER
+=                   OPE_ASS
+a                   IDENTIFIER
+^                   OPE_EXP
+-                   OPE_NEG
+2                   INTEGER
+;                   SEMICOLON
+ilimbag             KEYWORD
+(                   OPEN_PAREN
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+;                   SEMICOLON
+]                   CLOSE_SQR
+Square              IDENTIFIER
+(                   OPEN_PAREN
+4                   INTEGER
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+kaunaunahan         NOISE_WORD
+klase               CLASS_DECLARATION
+New_Class           IDENTIFIER
+[                   OPEN_SQR
+numero              INT_DECLARATION
+pal                 FUNCTION_DECLARATION
+Square              IDENTIFIER
+(                   OPEN_PAREN
+numero              INT_DECLARATION
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+[                   OPEN_SQR
+simula              NOISE_WORD
+a                   IDENTIFIER
+=                   OPE_ASS
+a                   IDENTIFIER
+^                   OPE_EXP
+-                   OPE_NEG
+2                   INTEGER
+;                   SEMICOLON
+ilimbag             KEYWORD
+(                   OPEN_PAREN
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+;                   SEMICOLON
+]                   CLOSE_SQR
+Square              IDENTIFIER
+(                   OPEN_PAREN
+4                   INTEGER
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+kaunaunahan         NOISE_WORD
+klase               CLASS_DECLARATION
+New_Class           IDENTIFIER
+[                   OPEN_SQR
+numero              INT_DECLARATION
+pal                 FUNCTION_DECLARATION
+Square              IDENTIFIER
+(                   OPEN_PAREN
+numero              INT_DECLARATION
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+[                   OPEN_SQR
+simula              NOISE_WORD
+a                   IDENTIFIER
+=                   OPE_ASS
+a                   IDENTIFIER
+^                   OPE_EXP
+-                   OPE_NEG
+2                   INTEGER
+;                   SEMICOLON
+ilimbag             KEYWORD
+(                   OPEN_PAREN
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+;                   SEMICOLON
+]                   CLOSE_SQR
+Square              IDENTIFIER
+(                   OPEN_PAREN
+4                   INTEGER
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+kaunaunahan         NOISE_WORD
+klase               CLASS_DECLARATION
+New_Class           IDENTIFIER
+[                   OPEN_SQR
+numero              INT_DECLARATION
+pal                 FUNCTION_DECLARATION
+Square              IDENTIFIER
+(                   OPEN_PAREN
+numero              INT_DECLARATION
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+[                   OPEN_SQR
+simula              NOISE_WORD
+a                   IDENTIFIER
+=                   OPE_ASS
+a                   IDENTIFIER
+^                   OPE_EXP
+-                   OPE_SUB
+2                   INTEGER
+;                   SEMICOLON
+ilimbag             KEYWORD
+(                   OPEN_PAREN
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+;                   SEMICOLON
+]                   CLOSE_SQR
+Square              IDENTIFIER
+(                   OPEN_PAREN
+4                   INTEGER
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+kaunaunahan         NOISE_WORD
+klase               CLASS_DECLARATION
+New_Class           IDENTIFIER
+[                   OPEN_SQR
+numero              INT_DECLARATION
+pal                 FUNCTION_DECLARATION
+Square              IDENTIFIER
+(                   OPEN_PAREN
+numero              INT_DECLARATION
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+[                   OPEN_SQR
+simula              NOISE_WORD
+a                   IDENTIFIER
+=                   OPE_ASS
+a                   IDENTIFIER
+^                   OPE_EXP
+-                   OPE_NEG
+2                   INTEGER
+;                   SEMICOLON
+ilimbag             KEYWORD
+(                   OPEN_PAREN
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+;                   SEMICOLON
+]                   CLOSE_SQR
+Square              IDENTIFIER
+(                   OPEN_PAREN
+4                   INTEGER
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+kaunaunahan         NOISE_WORD
+klase               CLASS_DECLARATION
+New_Class           IDENTIFIER
+[                   OPEN_SQR
+numero              INT_DECLARATION
+pal                 FUNCTION_DECLARATION
+Square              IDENTIFIER
+(                   OPEN_PAREN
+numero              INT_DECLARATION
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+[                   OPEN_SQR
+simula              NOISE_WORD
+a                   IDENTIFIER
+=                   OPE_ASS
+a                   IDENTIFIER
+^                   OPE_EXP
+-                   OPE_SUB
+2                   INTEGER
+;                   SEMICOLON
+ilimbag             KEYWORD
+(                   OPEN_PAREN
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+;                   SEMICOLON
+]                   CLOSE_SQR
+Square              IDENTIFIER
+(                   OPEN_PAREN
+4                   INTEGER
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+kaunaunahan         NOISE_WORD
+klase               CLASS_DECLARATION
+New_Class           IDENTIFIER
+[                   OPEN_SQR
+numero              INT_DECLARATION
+pal                 FUNCTION_DECLARATION
+Square              IDENTIFIER
+(                   OPEN_PAREN
+numero              INT_DECLARATION
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+[                   OPEN_SQR
+simula              NOISE_WORD
+a                   IDENTIFIER
+=                   OPE_ASS
+a                   IDENTIFIER
+^                   OPE_EXP
+-                   OPE_NEG
+2                   INTEGER
+;                   SEMICOLON
+ilimbag             KEYWORD
+(                   OPEN_PAREN
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+;                   SEMICOLON
+]                   CLOSE_SQR
+Square              IDENTIFIER
+(                   OPEN_PAREN
+4                   INTEGER
+)                   CLOSE_PAREN
+]                   CLOSE_SQR
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+..                  SINGLE_COMMENT
+IDENTIFIERS         COMMENT
+numero              INT_DECLARATION
+a                   IDENTIFIER
+=                   OPE_ASS
+3                   INTEGER
+;                   SEMICOLON
+..                  SINGLE_COMMENT
+ARITHMETIC          COMMENT
++                   OPE_ADD
+-                   OPE_SUB
+%                   OPE_MOD
+/                   OPE_DIV
+//                  OPE_INTDIV
+^                   OPE_EXP
+..                  SINGLE_COMMENT
+BOOLEAN             COMMENT
+<                   OPE_LT
+>                   OPE_GT
+<=                  OPE_LTEQUAL
+>=                  OPE_GTEQUAL
+==                  OPE_EQUALTO
+!=                  OPE_NEQUALTO
++=                  OPE_ADDASS
+-=                  OPE_SUBASS
+..                  SINGLE_COMMENT
+LOGICAL             COMMENT
+at                  BOOLEAN
+oh                  BOOLEAN
+hindi               BOOLEAN
+..                  SINGLE_COMMENT
+NOISE WORDS         COMMENT
+ay                  NOISE_WORD
+simula              NOISE_WORD
+wakas               NOISE_WORD
+kaunaunahan         NOISE_WORD
+kaduluduluhan       NOISE_WORD
+puna                NOISE_WORD
+..                  SINGLE_COMMENT
+RESERVED WORDS      COMMENT
+numero              INT_DECLARATION
+lutang              FLOAT_DECLARATION
+salita              STR_DECLARATION
+karakter            CHAR_DECLARATION
+bul                 BOOLEAN_DECLARATION
+totoo               IDENTIFIER
+mali                RESERVED_WORD
+mali                RESERVED_WORD
+sira                RESERVED_WORD
+tuloy               RESERVED_WORD
+kabtol              RESERVED_WORD
+pindutan            RESERVED_WORD
+ilabas              RESERVED_WORD
+labasmuna           RESERVED_WORD
+kung                KEYWORD
+subok               RESERVED_WORD
+puwera              RESERVED_WORD
+pal                 FUNCTION_DECLARATION
+klase               CLASS_DECLARATION
+..                  SINGLE_COMMENT
+KEYWORDS            COMMENT
+edi                 KEYWORD
+edikung             KEYWORD
+kung                KEYWORD
+ilimbag             KEYWORD
+ilimbags            KEYWORD
+lagyan              KEYWORD
+habang              KEYWORD
+..                  SINGLE_COMMENT
+DELIMETER AND BRACKETCOMMENT
+,                   COMMA
+[                   OPEN_SQR
+]                   CLOSE_SQR
+(                   OPEN_PAREN
+)                   CLOSE_PAREN
+..                  SINGLE_COMMENT
+COMMENTS            COMMENT
+..                  SINGLE_COMMENT
+ comment            COMMENT
+multi               IDENTIFIER
+comment             IDENTIFIER
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+..                  SINGLE_COMMENT
+IDENTIFIERS         COMMENT
+numero              INT_DECLARATION
+a                   IDENTIFIER
+=                   OPE_ASS
+3                   INTEGER
+;                   SEMICOLON
+..                  SINGLE_COMMENT
+ARITHMETIC          COMMENT
++                   OPE_ADD
+-                   OPE_SUB
+%                   OPE_MOD
+/                   OPE_DIV
+//                  OPE_INTDIV
+^                   OPE_EXP
+..                  SINGLE_COMMENT
+BOOLEAN             COMMENT
+<                   OPE_LT
+>                   OPE_GT
+<=                  OPE_LTEQUAL
+>=                  OPE_GTEQUAL
+==                  OPE_EQUALTO
+!=                  OPE_NEQUALTO
++=                  OPE_ADDASS
+-=                  OPE_SUBASS
+..                  SINGLE_COMMENT
+LOGICAL             COMMENT
+at                  BOOLEAN
+oh                  BOOLEAN
+hindi               BOOLEAN
+..                  SINGLE_COMMENT
+NOISE WORDS         COMMENT
+ay                  NOISE_WORD
+simula              NOISE_WORD
+wakas               NOISE_WORD
+kaunaunahan         NOISE_WORD
+kaduluduluhan       NOISE_WORD
+puna                NOISE_WORD
+..                  SINGLE_COMMENT
+RESERVED WORDS      COMMENT
+numero              INT_DECLARATION
+lutang              FLOAT_DECLARATION
+salita              STR_DECLARATION
+karakter            CHAR_DECLARATION
+bul                 BOOLEAN_DECLARATION
+totoo               IDENTIFIER
+mali                RESERVED_WORD
+mali                RESERVED_WORD
+sira                RESERVED_WORD
+tuloy               RESERVED_WORD
+kabtol              RESERVED_WORD
+pindutan            RESERVED_WORD
+ilabas              RESERVED_WORD
+labasmuna           RESERVED_WORD
+kung                KEYWORD
+subok               RESERVED_WORD
+puwera              RESERVED_WORD
+pal                 FUNCTION_DECLARATION
+klase               CLASS_DECLARATION
+..                  SINGLE_COMMENT
+KEYWORDS            COMMENT
+edi                 KEYWORD
+edikung             KEYWORD
+kung                KEYWORD
+ilimbag             KEYWORD
+ilimbags            KEYWORD
+lagyan              KEYWORD
+habang              KEYWORD
+..                  SINGLE_COMMENT
+DELIMETER AND BRACKETCOMMENT
+,                   COMMA
+[                   OPEN_SQR
+]                   CLOSE_SQR
+(                   OPEN_PAREN
+)                   CLOSE_PAREN
+..                  SINGLE_COMMENT
+COMMENTS            COMMENT
+..                  SINGLE_COMMENT
+ comment            COMMENT
+...                 OPEN_MULTI_COMMENT
+multi               COMMENT
+comment             COMMENT
+...                 CLOSE_MULTI_COMMENT
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+..                  SINGLE_COMMENT
+IDENTIFIERS         COMMENT
+numero              INT_DECLARATION
+a                   IDENTIFIER
+=                   OPE_ASS
+3                   INTEGER
+;                   SEMICOLON
+..                  SINGLE_COMMENT
+ARITHMETIC          COMMENT
++                   OPE_ADD
+-                   OPE_SUB
+%                   OPE_MOD
+/                   OPE_DIV
+//                  OPE_INTDIV
+^                   OPE_EXP
+..                  SINGLE_COMMENT
+BOOLEAN             COMMENT
+<                   OPE_LT
+>                   OPE_GT
+<=                  OPE_LTEQUAL
+>=                  OPE_GTEQUAL
+==                  OPE_EQUALTO
+!=                  OPE_NEQUALTO
++=                  OPE_ADDASS
+-=                  OPE_SUBASS
+..                  SINGLE_COMMENT
+LOGICAL             COMMENT
+at                  BOOLEAN
+oh                  BOOLEAN
+hindi               BOOLEAN
+..                  SINGLE_COMMENT
+NOISE WORDS         COMMENT
+ay                  NOISE_WORD
+simula              NOISE_WORD
+wakas               NOISE_WORD
+kaunaunahan         NOISE_WORD
+kaduluduluhan       NOISE_WORD
+puna                NOISE_WORD
+..                  SINGLE_COMMENT
+RESERVED WORDS      COMMENT
+numero              INT_DECLARATION
+lutang              FLOAT_DECLARATION
+salita              STR_DECLARATION
+karakter            CHAR_DECLARATION
+bul                 BOOLEAN_DECLARATION
+totoo               IDENTIFIER
+mali                RESERVED_WORD
+mali                RESERVED_WORD
+sira                RESERVED_WORD
+tuloy               RESERVED_WORD
+kabtol              RESERVED_WORD
+pindutan            RESERVED_WORD
+ilabas              RESERVED_WORD
+labasmuna           RESERVED_WORD
+kung                KEYWORD
+subok               RESERVED_WORD
+puwera              RESERVED_WORD
+pal                 FUNCTION_DECLARATION
+klase               CLASS_DECLARATION
+..                  SINGLE_COMMENT
+KEYWORDS            COMMENT
+edi                 KEYWORD
+edikung             KEYWORD
+kung                KEYWORD
+ilimbag             KEYWORD
+ilimbags            KEYWORD
+lagyan              KEYWORD
+habang              KEYWORD
+..                  SINGLE_COMMENT
+DELIMETER AND BRACKETCOMMENT
+,                   COMMA
+[                   OPEN_SQR
+]                   CLOSE_SQR
+(                   OPEN_PAREN
+)                   CLOSE_PAREN
+..                  SINGLE_COMMENT
+COMMENTS            COMMENT
+..                  SINGLE_COMMENT
+ comment            COMMENT
+...                 OPEN_MULTI_COMMENT
+multi               COMMENT
+comment             COMMENT
+...                 CLOSE_MULTI_COMMENT
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+..                  SINGLE_COMMENT
+IDENTIFIERS         COMMENT
+numero              INT_DECLARATION
+a                   IDENTIFIER
+=                   OPE_ASS
+3                   INTEGER
+;                   SEMICOLON
+..                  SINGLE_COMMENT
+ARITHMETIC          COMMENT
++                   OPE_ADD
+-                   OPE_SUB
+%                   OPE_MOD
+/                   OPE_DIV
+//                  OPE_INTDIV
+^                   OPE_EXP
+..                  SINGLE_COMMENT
+BOOLEAN             COMMENT
+<                   OPE_LT
+>                   OPE_GT
+<=                  OPE_LTEQUAL
+>=                  OPE_GTEQUAL
+==                  OPE_EQUALTO
+!=                  OPE_NEQUALTO
++=                  OPE_ADDASS
+-=                  OPE_SUBASS
+..                  SINGLE_COMMENT
+LOGICAL             COMMENT
+at                  BOOLEAN
+oh                  BOOLEAN
+hindi               BOOLEAN
+..                  SINGLE_COMMENT
+NOISE WORDS         COMMENT
+ay                  NOISE_WORD
+simula              NOISE_WORD
+wakas               NOISE_WORD
+kaunaunahan         NOISE_WORD
+kaduluduluhan       NOISE_WORD
+puna                NOISE_WORD
+..                  SINGLE_COMMENT
+RESERVED WORDS      COMMENT
+numero              INT_DECLARATION
+lutang              FLOAT_DECLARATION
+salita              STR_DECLARATION
+karakter            CHAR_DECLARATION
+bul                 BOOLEAN_DECLARATION
+totoo               IDENTIFIER
+mali                RESERVED_WORD
+mali                RESERVED_WORD
+sira                RESERVED_WORD
+tuloy               RESERVED_WORD
+kabtol              RESERVED_WORD
+pindutan            RESERVED_WORD
+ilabas              RESERVED_WORD
+labasmuna           RESERVED_WORD
+kung                KEYWORD
+subok               RESERVED_WORD
+puwera              RESERVED_WORD
+pal                 FUNCTION_DECLARATION
+klase               CLASS_DECLARATION
+..                  SINGLE_COMMENT
+KEYWORDS            COMMENT
+edi                 KEYWORD
+edikung             KEYWORD
+kung                KEYWORD
+ilimbag             KEYWORD
+ilimbags            KEYWORD
+lagyan              KEYWORD
+habang              KEYWORD
+..                  SINGLE_COMMENT
+DELIMETER AND BRACKETCOMMENT
+,                   COMMA
+[                   OPEN_SQR
+]                   CLOSE_SQR
+(                   OPEN_PAREN
+)                   CLOSE_PAREN
+..                  SINGLE_COMMENT
+COMMENTS            COMMENT
+..                  SINGLE_COMMENT
+ comment            COMMENT
+...                 OPEN_MULTI_COMMENT
+multi               COMMENT
+comment             COMMENT
+...                 CLOSE_MULTI_COMMENT
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+..                  SINGLE_COMMENT
+IDENTIFIERS         COMMENT
+numero              INT_DECLARATION
+a                   IDENTIFIER
+=                   OPE_ASS
+3                   INTEGER
+;                   SEMICOLON
+..                  SINGLE_COMMENT
+ARITHMETIC          COMMENT
++                   OPE_ADD
+-                   OPE_SUB
+%                   OPE_MOD
+/                   OPE_DIV
+//                  OPE_INTDIV
+^                   OPE_EXP
+..                  SINGLE_COMMENT
+BOOLEAN             COMMENT
+<                   OPE_LT
+>                   OPE_GT
+<=                  OPE_LTEQUAL
+>=                  OPE_GTEQUAL
+==                  OPE_EQUALTO
+!=                  OPE_NEQUALTO
++=                  OPE_ADDASS
+-=                  OPE_SUBASS
+..                  SINGLE_COMMENT
+LOGICAL             COMMENT
+at                  BOOLEAN
+oh                  BOOLEAN
+hindi               BOOLEAN
+..                  SINGLE_COMMENT
+NOISE WORDS         COMMENT
+ay                  NOISE_WORD
+simula              NOISE_WORD
+wakas               NOISE_WORD
+kaunaunahan         NOISE_WORD
+kaduluduluhan       NOISE_WORD
+puna                NOISE_WORD
+..                  SINGLE_COMMENT
+RESERVED WORDS      COMMENT
+numero              INT_DECLARATION
+lutang              FLOAT_DECLARATION
+salita              STR_DECLARATION
+karakter            CHAR_DECLARATION
+bul                 BOOLEAN_DECLARATION
+totoo               IDENTIFIER
+mali                RESERVED_WORD
+mali                RESERVED_WORD
+sira                RESERVED_WORD
+tuloy               RESERVED_WORD
+kabtol              RESERVED_WORD
+pindutan            RESERVED_WORD
+ilabas              RESERVED_WORD
+labasmuna           RESERVED_WORD
+kung                KEYWORD
+subok               RESERVED_WORD
+puwera              RESERVED_WORD
+pal                 FUNCTION_DECLARATION
+klase               CLASS_DECLARATION
+..                  SINGLE_COMMENT
+KEYWORDS            COMMENT
+edi                 KEYWORD
+edikung             KEYWORD
+kung                KEYWORD
+ilimbag             KEYWORD
+ilimbags            KEYWORD
+lagyan              KEYWORD
+habang              KEYWORD
+..                  SINGLE_COMMENT
+DELIMETER AND BRACKETCOMMENT
+,                   COMMA
+[                   OPEN_SQR
+]                   CLOSE_SQR
+(                   OPEN_PAREN
+)                   CLOSE_PAREN
+..                  SINGLE_COMMENT
+COMMENTS            COMMENT
+..                  SINGLE_COMMENT
+ comment            COMMENT
+...                 OPEN_MULTI_COMMENT
+multi               COMMENT
+comment             COMMENT
+...                 CLOSE_MULTI_COMMENT
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+..                  SINGLE_COMMENT
+IDENTIFIERS         COMMENT
+numero              INT_DECLARATION
+a                   IDENTIFIER
+=                   OPE_ASS
+3                   INTEGER
+;                   SEMICOLON
+..                  SINGLE_COMMENT
+ARITHMETIC          COMMENT
++                   OPE_ADD
+-                   OPE_SUB
+%                   OPE_MOD
+/                   OPE_DIV
+//                  OPE_INTDIV
+^                   OPE_EXP
+..                  SINGLE_COMMENT
+BOOLEAN             COMMENT
+<                   OPE_LT
+>                   OPE_GT
+<=                  OPE_LTEQUAL
+>=                  OPE_GTEQUAL
+==                  OPE_EQUALTO
+!=                  OPE_NEQUALTO
++=                  OPE_ADDASS
+-=                  OPE_SUBASS
+..                  SINGLE_COMMENT
+LOGICAL             COMMENT
+at                  BOOLEAN
+oh                  BOOLEAN
+hindi               BOOLEAN
+..                  SINGLE_COMMENT
+NOISE WORDS         COMMENT
+ay                  NOISE_WORD
+simula              NOISE_WORD
+wakas               NOISE_WORD
+kaunaunahan         NOISE_WORD
+kaduluduluhan       NOISE_WORD
+puna                NOISE_WORD
+..                  SINGLE_COMMENT
+RESERVED WORDS      COMMENT
+numero              INT_DECLARATION
+lutang              FLOAT_DECLARATION
+salita              STR_DECLARATION
+karakter            CHAR_DECLARATION
+bul                 BOOLEAN_DECLARATION
+totoo               IDENTIFIER
+mali                RESERVED_WORD
+mali                RESERVED_WORD
+sira                RESERVED_WORD
+tuloy               RESERVED_WORD
+kabtol              RESERVED_WORD
+pindutan            RESERVED_WORD
+ilabas              RESERVED_WORD
+labasmuna           RESERVED_WORD
+kung                KEYWORD
+subok               RESERVED_WORD
+puwera              RESERVED_WORD
+pal                 FUNCTION_DECLARATION
+klase               CLASS_DECLARATION
+..                  SINGLE_COMMENT
+KEYWORDS            COMMENT
+edi                 KEYWORD
+edikung             KEYWORD
+kung                KEYWORD
+ilimbag             KEYWORD
+ilimbags            KEYWORD
+lagyan              KEYWORD
+habang              KEYWORD
+..                  SINGLE_COMMENT
+DELIMETER AND BRACKETCOMMENT
+,                   COMMA
+[                   OPEN_SQR
+]                   CLOSE_SQR
+(                   OPEN_PAREN
+)                   CLOSE_PAREN
+..                  SINGLE_COMMENT
+COMMENTS            COMMENT
+..                  SINGLE_COMMENT
+ comment            COMMENT
+...                 OPEN_MULTI_COMMENT
+multi               COMMENT
+comment             COMMENT
+...                 CLOSE_MULTI_COMMENT
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+..                  SINGLE_COMMENT
+IDENTIFIERS         COMMENT
+numero              INT_DECLARATION
+a                   IDENTIFIER
+=                   OPE_ASS
+3                   INTEGER
+;                   SEMICOLON
+..                  SINGLE_COMMENT
+ARITHMETIC          COMMENT
++                   OPE_ADD
+-                   OPE_SUB
+%                   OPE_MOD
+/                   OPE_DIV
+//                  OPE_INTDIV
+^                   OPE_EXP
+..                  SINGLE_COMMENT
+BOOLEAN             COMMENT
+<                   OPE_LT
+>                   OPE_GT
+<=                  OPE_LTEQUAL
+>=                  OPE_GTEQUAL
+==                  OPE_EQUALTO
+!=                  OPE_NEQUALTO
++=                  OPE_ADDASS
+-=                  OPE_SUBASS
+..                  SINGLE_COMMENT
+LOGICAL             COMMENT
+at                  BOOLEAN
+oh                  BOOLEAN
+hindi               BOOLEAN
+..                  SINGLE_COMMENT
+NOISE WORDS         COMMENT
+ay                  NOISE_WORD
+simula              NOISE_WORD
+wakas               NOISE_WORD
+kaunaunahan         NOISE_WORD
+kaduluduluhan       NOISE_WORD
+puna                NOISE_WORD
+..                  SINGLE_COMMENT
+RESERVED WORDS      COMMENT
+numero              INT_DECLARATION
+lutang              FLOAT_DECLARATION
+salita              STR_DECLARATION
+karakter            CHAR_DECLARATION
+bul                 BOOLEAN_DECLARATION
+totoo               IDENTIFIER
+mali                RESERVED_WORD
+mali                RESERVED_WORD
+sira                RESERVED_WORD
+tuloy               RESERVED_WORD
+kabtol              RESERVED_WORD
+pindutan            RESERVED_WORD
+ilabas              RESERVED_WORD
+labasmuna           RESERVED_WORD
+kung                KEYWORD
+subok               RESERVED_WORD
+puwera              RESERVED_WORD
+pal                 FUNCTION_DECLARATION
+klase               CLASS_DECLARATION
+..                  SINGLE_COMMENT
+KEYWORDS            COMMENT
+edi                 KEYWORD
+edikung             KEYWORD
+kung                KEYWORD
+ilimbag             KEYWORD
+ilimbags            KEYWORD
+lagyan              KEYWORD
+habang              KEYWORD
+..                  SINGLE_COMMENT
+DELIMETER AND BRACKETCOMMENT
+,                   COMMA
+[                   OPEN_SQR
+]                   CLOSE_SQR
+(                   OPEN_PAREN
+)                   CLOSE_PAREN
+..                  SINGLE_COMMENT
+COMMENTS            COMMENT
+..                  SINGLE_COMMENT
+ comment            COMMENT
+...                 OPEN_MULTI_COMMENT
+multi               COMMENT
+comment             COMMENT
+...                 CLOSE_MULTI_COMMENT
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+..                  SINGLE_COMMENT
+IDENTIFIERS         COMMENT
+numero              INT_DECLARATION
+a                   IDENTIFIER
+=                   OPE_ASS
+3                   INTEGER
+;                   SEMICOLON
+..                  SINGLE_COMMENT
+ARITHMETIC          COMMENT
++                   OPE_ADD
+-                   OPE_SUB
+%                   OPE_MOD
+/                   OPE_DIV
+//                  OPE_INTDIV
+^                   OPE_EXP
+..                  SINGLE_COMMENT
+BOOLEAN             COMMENT
+<                   OPE_LT
+>                   OPE_GT
+<=                  OPE_LTEQUAL
+>=                  OPE_GTEQUAL
+==                  OPE_EQUALTO
+!=                  OPE_NEQUALTO
++=                  OPE_ADDASS
+-=                  OPE_SUBASS
+..                  SINGLE_COMMENT
+LOGICAL             COMMENT
+at                  BOOLEAN
+oh                  BOOLEAN
+hindi               BOOLEAN
+..                  SINGLE_COMMENT
+NOISE WORDS         COMMENT
+ay                  NOISE_WORD
+simula              NOISE_WORD
+wakas               NOISE_WORD
+kaunaunahan         NOISE_WORD
+kaduluduluhan       NOISE_WORD
+puna                NOISE_WORD
+..                  SINGLE_COMMENT
+RESERVED WORDS      COMMENT
+numero              INT_DECLARATION
+lutang              FLOAT_DECLARATION
+salita              STR_DECLARATION
+karakter            CHAR_DECLARATION
+bul                 BOOLEAN_DECLARATION
+totoo               IDENTIFIER
+mali                RESERVED_WORD
+mali                RESERVED_WORD
+sira                RESERVED_WORD
+tuloy               RESERVED_WORD
+kabtol              RESERVED_WORD
+pindutan            RESERVED_WORD
+ilabas              RESERVED_WORD
+labasmuna           RESERVED_WORD
+kung                KEYWORD
+subok               RESERVED_WORD
+puwera              RESERVED_WORD
+pal                 FUNCTION_DECLARATION
+klase               CLASS_DECLARATION
+..                  SINGLE_COMMENT
+KEYWORDS            COMMENT
+edi                 KEYWORD
+edikung             KEYWORD
+kung                KEYWORD
+ilimbag             KEYWORD
+ilimbags            KEYWORD
+lagyan              KEYWORD
+habang              KEYWORD
+..                  SINGLE_COMMENT
+DELIMETER AND BRACKETCOMMENT
+,                   COMMA
+[                   OPEN_SQR
+]                   CLOSE_SQR
+(                   OPEN_PAREN
+)                   CLOSE_PAREN
+..                  SINGLE_COMMENT
+COMMENTS            COMMENT
+..                  SINGLE_COMMENT
+ comment            COMMENT
+...                 OPEN_MULTI_COMMENT
+multi               COMMENT
+comment             COMMENT
+...                 CLOSE_MULTI_COMMENT
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+..                  SINGLE_COMMENT
+IDENTIFIERS         COMMENT
+numero              INT_DECLARATION
+a                   IDENTIFIER
+=                   OPE_ASS
+3                   INTEGER
+;                   SEMICOLON
+..                  SINGLE_COMMENT
+ARITHMETIC          COMMENT
++                   OPE_ADD
+-                   OPE_SUB
+%                   OPE_MOD
+/                   OPE_DIV
+//                  OPE_INTDIV
+^                   OPE_EXP
+..                  SINGLE_COMMENT
+BOOLEAN             COMMENT
+<                   OPE_LT
+>                   OPE_GT
+<=                  OPE_LTEQUAL
+>=                  OPE_GTEQUAL
+==                  OPE_EQUALTO
+!=                  OPE_NEQUALTO
++=                  OPE_ADDASS
+-=                  OPE_SUBASS
+..                  SINGLE_COMMENT
+LOGICAL             COMMENT
+at                  BOOLEAN
+oh                  BOOLEAN
+hindi               BOOLEAN
+..                  SINGLE_COMMENT
+NOISE WORDS         COMMENT
+ay                  NOISE_WORD
+simula              NOISE_WORD
+wakas               NOISE_WORD
+kaunaunahan         NOISE_WORD
+kaduluduluhan       NOISE_WORD
+puna                NOISE_WORD
+..                  SINGLE_COMMENT
+RESERVED WORDS      COMMENT
+numero              INT_DECLARATION
+lutang              FLOAT_DECLARATION
+salita              STR_DECLARATION
+karakter            CHAR_DECLARATION
+bul                 BOOLEAN_DECLARATION
+totoo               IDENTIFIER
+mali                RESERVED_WORD
+mali                RESERVED_WORD
+sira                RESERVED_WORD
+tuloy               RESERVED_WORD
+kabtol              RESERVED_WORD
+pindutan            RESERVED_WORD
+ilabas              RESERVED_WORD
+labasmuna           RESERVED_WORD
+kung                KEYWORD
+subok               RESERVED_WORD
+puwera              RESERVED_WORD
+pal                 FUNCTION_DECLARATION
+klase               CLASS_DECLARATION
+..                  SINGLE_COMMENT
+KEYWORDS            COMMENT
+edi                 KEYWORD
+edikung             KEYWORD
+kung                KEYWORD
+ilimbag             KEYWORD
+ilimbags            KEYWORD
+lagyan              KEYWORD
+habang              KEYWORD
+..                  SINGLE_COMMENT
+DELIMETER AND BRACKETCOMMENT
+,                   COMMA
+[                   OPEN_SQR
+]                   CLOSE_SQR
+(                   OPEN_PAREN
+)                   CLOSE_PAREN
+..                  SINGLE_COMMENT
+COMMENTS            COMMENT
+..                  SINGLE_COMMENT
+ comment            COMMENT
+...                 OPEN_MULTI_COMMENT
+multi               COMMENT
+comment             COMMENT
+...                 CLOSE_MULTI_COMMENT
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+..                  SINGLE_COMMENT
+IDENTIFIERS         COMMENT
+numero              INT_DECLARATION
+a                   IDENTIFIER
+=                   OPE_ASS
+3                   INTEGER
+;                   SEMICOLON
+..                  SINGLE_COMMENT
+ARITHMETIC          COMMENT
++                   OPE_ADD
+-                   OPE_SUB
+%                   OPE_MOD
+/                   OPE_DIV
+//                  OPE_INTDIV
+^                   OPE_EXP
+..                  SINGLE_COMMENT
+BOOLEAN             COMMENT
+<                   OPE_LT
+>                   OPE_GT
+<=                  OPE_LTEQUAL
+>=                  OPE_GTEQUAL
+==                  OPE_EQUALTO
+!=                  OPE_NEQUALTO
++=                  OPE_ADDASS
+-=                  OPE_SUBASS
+..                  SINGLE_COMMENT
+LOGICAL             COMMENT
+at                  BOOLEAN
+oh                  BOOLEAN
+hindi               BOOLEAN
+..                  SINGLE_COMMENT
+NOISE WORDS         COMMENT
+ay                  NOISE_WORD
+simula              NOISE_WORD
+wakas               NOISE_WORD
+kaunaunahan         NOISE_WORD
+kaduluduluhan       NOISE_WORD
+puna                NOISE_WORD
+..                  SINGLE_COMMENT
+RESERVED WORDS      COMMENT
+numero              INT_DECLARATION
+lutang              FLOAT_DECLARATION
+salita              STR_DECLARATION
+karakter            CHAR_DECLARATION
+bul                 BOOLEAN_DECLARATION
+totoo               IDENTIFIER
+mali                RESERVED_WORD
+sira                RESERVED_WORD
+tuloy               RESERVED_WORD
+kabtol              RESERVED_WORD
+pindutan            RESERVED_WORD
+ilabas              RESERVED_WORD
+labasmuna           RESERVED_WORD
+kung                KEYWORD
+subok               RESERVED_WORD
+puwera              RESERVED_WORD
+pal                 FUNCTION_DECLARATION
+klase               CLASS_DECLARATION
+..                  SINGLE_COMMENT
+KEYWORDS            COMMENT
+edi                 KEYWORD
+edikung             KEYWORD
+kung                KEYWORD
+ilimbag             KEYWORD
+ilimbags            KEYWORD
+lagyan              KEYWORD
+habang              KEYWORD
+..                  SINGLE_COMMENT
+DELIMETER AND BRACKETCOMMENT
+,                   COMMA
+[                   OPEN_SQR
+]                   CLOSE_SQR
+(                   OPEN_PAREN
+)                   CLOSE_PAREN
+...                 OPEN_MULTI_COMMENT
+MULTI-LINE COMMENTS COMMENT
+...                 CLOSE_MULTI_COMMENT
+.                   UNRECOGNIZED
+..                  SINGLE_COMMENT
+SINGLE- LINE COMMENTSCOMMENT
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+..                  SINGLE_COMMENT
+IDENTIFIERS         COMMENT
+numero              INT_DECLARATION
+a                   IDENTIFIER
+=                   OPE_ASS
+3                   INTEGER
+;                   SEMICOLON
+..                  SINGLE_COMMENT
+ARITHMETIC          COMMENT
++                   OPE_ADD
+-                   OPE_SUB
+%                   OPE_MOD
+/                   OPE_DIV
+//                  OPE_INTDIV
+^                   OPE_EXP
+..                  SINGLE_COMMENT
+BOOLEAN             COMMENT
+<                   OPE_LT
+>                   OPE_GT
+<=                  OPE_LTEQUAL
+>=                  OPE_GTEQUAL
+==                  OPE_EQUALTO
+!=                  OPE_NEQUALTO
++=                  OPE_ADDASS
+-=                  OPE_SUBASS
+..                  SINGLE_COMMENT
+LOGICAL             COMMENT
+at                  BOOLEAN
+oh                  BOOLEAN
+hindi               BOOLEAN
+..                  SINGLE_COMMENT
+NOISE WORDS         COMMENT
+ay                  NOISE_WORD
+simula              NOISE_WORD
+wakas               NOISE_WORD
+kaunaunahan         NOISE_WORD
+kaduluduluhan       NOISE_WORD
+puna                NOISE_WORD
+..                  SINGLE_COMMENT
+RESERVED WORDS      COMMENT
+numero              INT_DECLARATION
+lutang              FLOAT_DECLARATION
+salita              STR_DECLARATION
+karakter            CHAR_DECLARATION
+bul                 BOOLEAN_DECLARATION
+totoo               IDENTIFIER
+mali                RESERVED_WORD
+sira                RESERVED_WORD
+tuloy               RESERVED_WORD
+kabtol              RESERVED_WORD
+pindutan            RESERVED_WORD
+ilabas              RESERVED_WORD
+labasmuna           RESERVED_WORD
+kung                KEYWORD
+subok               RESERVED_WORD
+puwera              RESERVED_WORD
+pal                 FUNCTION_DECLARATION
+klase               CLASS_DECLARATION
+..                  SINGLE_COMMENT
+KEYWORDS            COMMENT
+edi                 KEYWORD
+edikung             KEYWORD
+kung                KEYWORD
+ilimbag             KEYWORD
+ilimbags            KEYWORD
+lagyan              KEYWORD
+habang              KEYWORD
+..                  SINGLE_COMMENT
+DELIMETER AND BRACKETCOMMENT
+,                   COMMA
+[                   OPEN_SQR
+]                   CLOSE_SQR
+(                   OPEN_PAREN
+)                   CLOSE_PAREN
+...                 OPEN_MULTI_COMMENT
+MULTI-LINE COMMENTS COMMENT
+...                 CLOSE_MULTI_COMMENT
+.                   UNRECOGNIZED
+..                  SINGLE_COMMENT
+SINGLE- LINE COMMENTSCOMMENT
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+..                  SINGLE_COMMENT
+IDENTIFIERS         COMMENT
+numero              INT_DECLARATION
+a                   IDENTIFIER
+=                   OPE_ASS
+3                   INTEGER
+;                   SEMICOLON
+..                  SINGLE_COMMENT
+ARITHMETIC          COMMENT
++                   OPE_ADD
+-                   OPE_SUB
+%                   OPE_MOD
+/                   OPE_DIV
+//                  OPE_INTDIV
+^                   OPE_EXP
+..                  SINGLE_COMMENT
+BOOLEAN             COMMENT
+<                   OPE_LT
+>                   OPE_GT
+<=                  OPE_LTEQUAL
+>=                  OPE_GTEQUAL
+==                  OPE_EQUALTO
+!=                  OPE_NEQUALTO
++=                  OPE_ADDASS
+-=                  OPE_SUBASS
+..                  SINGLE_COMMENT
+LOGICAL             COMMENT
+at                  BOOLEAN
+oh                  BOOLEAN
+hindi               BOOLEAN
+..                  SINGLE_COMMENT
+NOISE WORDS         COMMENT
+ay                  NOISE_WORD
+simula              NOISE_WORD
+wakas               NOISE_WORD
+kaunaunahan         NOISE_WORD
+kaduluduluhan       NOISE_WORD
+puna                NOISE_WORD
+..                  SINGLE_COMMENT
+RESERVED WORDS      COMMENT
+numero              INT_DECLARATION
+lutang              FLOAT_DECLARATION
+salita              STR_DECLARATION
+karakter            CHAR_DECLARATION
+bul                 BOOLEAN_DECLARATION
+totoo               IDENTIFIER
+mali                RESERVED_WORD
+sira                RESERVED_WORD
+tuloy               RESERVED_WORD
+kabtol              RESERVED_WORD
+pindutan            RESERVED_WORD
+ilabas              RESERVED_WORD
+labasmuna           RESERVED_WORD
+kung                KEYWORD
+subok               RESERVED_WORD
+puwera              RESERVED_WORD
+pal                 FUNCTION_DECLARATION
+klase               CLASS_DECLARATION
+..                  SINGLE_COMMENT
+KEYWORDS            COMMENT
+edi                 KEYWORD
+edikung             KEYWORD
+kung                KEYWORD
+ilimbag             KEYWORD
+ilimbags            KEYWORD
+lagyan              KEYWORD
+habang              KEYWORD
+..                  SINGLE_COMMENT
+DELIMETER AND BRACKETCOMMENT
+,                   COMMA
+[                   OPEN_SQR
+]                   CLOSE_SQR
+(                   OPEN_PAREN
+)                   CLOSE_PAREN
+...                 OPEN_MULTI_COMMENT
+MULTI-LINE COMMENTS COMMENT
+...                 CLOSE_MULTI_COMMENT
+.                   UNRECOGNIZED
+..                  SINGLE_COMMENT
+SINGLE- LINE COMMENTSCOMMENT
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+..                  SINGLE_COMMENT
+IDENTIFIERS         COMMENT
+numero              INT_DECLARATION
+a                   IDENTIFIER
+=                   OPE_ASS
+3                   INTEGER
+;                   SEMICOLON
+..                  SINGLE_COMMENT
+ARITHMETIC          COMMENT
++                   OPE_ADD
+-                   OPE_SUB
+%                   OPE_MOD
+/                   OPE_DIV
+//                  OPE_INTDIV
+^                   OPE_EXP
+..                  SINGLE_COMMENT
+BOOLEAN             COMMENT
+<                   OPE_LT
+>                   OPE_GT
+<=                  OPE_LTEQUAL
+>=                  OPE_GTEQUAL
+==                  OPE_EQUALTO
+!=                  OPE_NEQUALTO
++=                  OPE_ADDASS
+-=                  OPE_SUBASS
+..                  SINGLE_COMMENT
+LOGICAL             COMMENT
+at                  BOOLEAN
+oh                  BOOLEAN
+hindi               BOOLEAN
+..                  SINGLE_COMMENT
+NOISE WORDS         COMMENT
+ay                  NOISE_WORD
+simula              NOISE_WORD
+wakas               NOISE_WORD
+kaunaunahan         NOISE_WORD
+kaduluduluhan       NOISE_WORD
+puna                NOISE_WORD
+..                  SINGLE_COMMENT
+RESERVED WORDS      COMMENT
+numero              INT_DECLARATION
+lutang              FLOAT_DECLARATION
+salita              STR_DECLARATION
+karakter            CHAR_DECLARATION
+bul                 BOOLEAN_DECLARATION
+totoo               IDENTIFIER
+mali                RESERVED_WORD
+sira                RESERVED_WORD
+tuloy               RESERVED_WORD
+kabtol              RESERVED_WORD
+pindutan            RESERVED_WORD
+ilabas              RESERVED_WORD
+labasmuna           RESERVED_WORD
+kung                KEYWORD
+subok               RESERVED_WORD
+puwera              RESERVED_WORD
+pal                 FUNCTION_DECLARATION
+klase               CLASS_DECLARATION
+..                  SINGLE_COMMENT
+KEYWORDS            COMMENT
+edi                 KEYWORD
+edikung             KEYWORD
+kung                KEYWORD
+ilimbag             KEYWORD
+ilimbags            KEYWORD
+lagyan              KEYWORD
+habang              KEYWORD
+..                  SINGLE_COMMENT
+DELIMETER AND BRACKETCOMMENT
+,                   COMMA
+[                   OPEN_SQR
+]                   CLOSE_SQR
+(                   OPEN_PAREN
+)                   CLOSE_PAREN
+...                 OPEN_MULTI_COMMENT
+MULTI-LINE COMMENTS COMMENT
+...                 CLOSE_MULTI_COMMENT
+.                   UNRECOGNIZED
+..                  SINGLE_COMMENT
+SINGLE- LINE COMMENTSCOMMENT
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+..                  SINGLE_COMMENT
+IDENTIFIERS         COMMENT
+numero              INT_DECLARATION
+a                   IDENTIFIER
+=                   OPE_ASS
+3                   INTEGER
+;                   SEMICOLON
+..                  SINGLE_COMMENT
+ARITHMETIC          COMMENT
++                   OPE_ADD
+-                   OPE_SUB
+%                   OPE_MOD
+/                   OPE_DIV
+//                  OPE_INTDIV
+^                   OPE_EXP
+..                  SINGLE_COMMENT
+BOOLEAN             COMMENT
+<                   OPE_LT
+>                   OPE_GT
+<=                  OPE_LTEQUAL
+>=                  OPE_GTEQUAL
+==                  OPE_EQUALTO
+!=                  OPE_NEQUALTO
++=                  OPE_ADDASS
+-=                  OPE_SUBASS
+..                  SINGLE_COMMENT
+LOGICAL             COMMENT
+at                  BOOLEAN
+oh                  BOOLEAN
+hindi               BOOLEAN
+..                  SINGLE_COMMENT
+NOISE WORDS         COMMENT
+ay                  NOISE_WORD
+simula              NOISE_WORD
+wakas               NOISE_WORD
+kaunaunahan         NOISE_WORD
+kaduluduluhan       NOISE_WORD
+puna                NOISE_WORD
+..                  SINGLE_COMMENT
+RESERVED WORDS      COMMENT
+numero              INT_DECLARATION
+lutang              FLOAT_DECLARATION
+salita              STR_DECLARATION
+karakter            CHAR_DECLARATION
+bul                 BOOLEAN_DECLARATION
+totoo               IDENTIFIER
+mali                RESERVED_WORD
+sira                RESERVED_WORD
+tuloy               RESERVED_WORD
+kabtol              RESERVED_WORD
+pindutan            RESERVED_WORD
+ilabas              RESERVED_WORD
+labasmuna           RESERVED_WORD
+kung                KEYWORD
+subok               RESERVED_WORD
+puwera              RESERVED_WORD
+pal                 FUNCTION_DECLARATION
+klase               CLASS_DECLARATION
+..                  SINGLE_COMMENT
+KEYWORDS            COMMENT
+edi                 KEYWORD
+edikung             KEYWORD
+kung                KEYWORD
+ilimbag             KEYWORD
+ilimbags            KEYWORD
+lagyan              KEYWORD
+habang              KEYWORD
+..                  SINGLE_COMMENT
+DELIMETER AND BRACKETCOMMENT
+,                   COMMA
+[                   OPEN_SQR
+]                   CLOSE_SQR
+(                   OPEN_PAREN
+)                   CLOSE_PAREN
+...                 OPEN_MULTI_COMMENT
+MULTI-LINE COMMENTS COMMENT
+...                 CLOSE_MULTI_COMMENT
+.                   UNRECOGNIZED
+..                  SINGLE_COMMENT
+SINGLE- LINE COMMENTSCOMMENT
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+..                  SINGLE_COMMENT
+IDENTIFIERS         COMMENT
+numero              INT_DECLARATION
+a                   IDENTIFIER
+=                   OPE_ASS
+3                   INTEGER
+;                   SEMICOLON
+salita              STR_DECLARATION
+b                   IDENTIFIER
+=                   OPE_ASS
+"                   OPEN_DOUBLEQT
+HelloWorld          STRING
+"                   CLOSE_DOUBLEQT
+;                   SEMICOLON
+karakter            CHAR_DECLARATION
+c                   IDENTIFIER
+=                   OPE_ASS
+'                   OPEN_SINGLEQT
+s                   CHARACTER
+'                   CLOSE_SINGLEQT
+;                   SEMICOLON
+wala                VOID_DECLARATION
+d                   IDENTIFIER
+;                   SEMICOLON
+numero              INT_DECLARATION
+pal                 FUNCTION_DECLARATION
+Function            IDENTIFIER
+(                   OPEN_PAREN
+numero              INT_DECLARATION
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+klase               CLASS_DECLARATION
+Student             IDENTIFIER
+..                  SINGLE_COMMENT
+ARITHMETIC          COMMENT
++                   OPE_ADD
+-                   OPE_SUB
+%                   OPE_MOD
+/                   OPE_DIV
+//                  OPE_INTDIV
+^                   OPE_EXP
+..                  SINGLE_COMMENT
+BOOLEAN             COMMENT
+<                   OPE_LT
+>                   OPE_GT
+<=                  OPE_LTEQUAL
+>=                  OPE_GTEQUAL
+==                  OPE_EQUALTO
+!=                  OPE_NEQUALTO
++=                  OPE_ADDASS
+-=                  OPE_SUBASS
+..                  SINGLE_COMMENT
+LOGICAL             COMMENT
+at                  LOGICAL
+oh                  LOGICAL
+hindi               LOGICAL
+..                  SINGLE_COMMENT
+NOISE WORDS         COMMENT
+ay                  NOISE_WORD
+simula              NOISE_WORD
+wakas               NOISE_WORD
+kaunaunahan         NOISE_WORD
+kaduluduluhan       NOISE_WORD
+puna                NOISE_WORD
+..                  SINGLE_COMMENT
+RESERVED WORDS      COMMENT
+numero              INT_DECLARATION
+lutang              FLOAT_DECLARATION
+salita              STR_DECLARATION
+karakter            CHAR_DECLARATION
+bul                 IDENTIFIER
+totoo               BOOLEAN
+mali                BOOLEAN
+sira                RESERVED_WORD
+tuloy               RESERVED_WORD
+kabtol              RESERVED_WORD
+pindutan            RESERVED_WORD
+ilabas              RESERVED_WORD
+labasmuna           RESERVED_WORD
+kung                KEYWORD
+subok               RESERVED_WORD
+puwera              RESERVED_WORD
+pal                 FUNCTION_DECLARATION
+klase               CLASS_DECLARATION
+..                  SINGLE_COMMENT
+KEYWORDS            COMMENT
+edi                 KEYWORD
+edikung             KEYWORD
+kung                KEYWORD
+ilimbag             KEYWORD
+ilimbags            KEYWORD
+lagyan              KEYWORD
+habang              KEYWORD
+..                  SINGLE_COMMENT
+DELIMETER AND BRACKETCOMMENT
+,                   COMMA
+[                   OPEN_SQR
+]                   CLOSE_SQR
+(                   OPEN_PAREN
+)                   CLOSE_PAREN
+...                 OPEN_MULTI_COMMENT
+MULTI-LINE COMMENTS COMMENT
+...                 CLOSE_MULTI_COMMENT
+.                   UNRECOGNIZED
+..                  SINGLE_COMMENT
+SINGLE- LINE COMMENTSCOMMENT
+-----------------------------------------------------------------
+
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+..                  SINGLE_COMMENT
+IDENTIFIERS         COMMENT
+numero              INT_DECLARATION
+a                   IDENTIFIER
+=                   OPE_ASS
+3                   INTEGER
+;                   SEMICOLON
+salita              STR_DECLARATION
+b                   IDENTIFIER
+=                   OPE_ASS
+"                   OPEN_DOUBLEQT
+HelloWorld          STRING
+"                   CLOSE_DOUBLEQT
+;                   SEMICOLON
+karakter            CHAR_DECLARATION
+c                   IDENTIFIER
+=                   OPE_ASS
+'                   OPEN_SINGLEQT
+s                   CHARACTER
+'                   CLOSE_SINGLEQT
+;                   SEMICOLON
+wala                VOID_DECLARATION
+pal                 FUNCTION_DECLARATION
+Pera                IDENTIFIER
+(                   OPEN_PAREN
+numero              INT_DECLARATION
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+numero              INT_DECLARATION
+pal                 FUNCTION_DECLARATION
+Function            IDENTIFIER
+(                   OPEN_PAREN
+numero              INT_DECLARATION
+a                   IDENTIFIER
+)                   CLOSE_PAREN
+klase               CLASS_DECLARATION
+Student             IDENTIFIER
+..                  SINGLE_COMMENT
+KEYWORDS            COMMENT
+edi                 KEYWORD
+edikung             KEYWORD
+kung                KEYWORD
+ilimbag             KEYWORD
+ilimbags            KEYWORD
+lagyan              KEYWORD
+habang              KEYWORD
+..                  SINGLE_COMMENT
+RESERVED WORDS      COMMENT
+numero              INT_DECLARATION
+lutang              FLOAT_DECLARATION
+salita              STR_DECLARATION
+karakter            CHAR_DECLARATION
+bul                 IDENTIFIER
+sira                RESERVED_WORD
+tuloy               RESERVED_WORD
+kabtol              RESERVED_WORD
+pindutan            RESERVED_WORD
+ilabas              RESERVED_WORD
+labasmuna           RESERVED_WORD
+kung                KEYWORD
+subok               RESERVED_WORD
+puwera              RESERVED_WORD
+pal                 FUNCTION_DECLARATION
+klase               CLASS_DECLARATION
+..                  SINGLE_COMMENT
+CONSTANT            COMMENT
+1                   INTEGER
+2.3                 FLOAT
+a                   IDENTIFIER
+totoo               BOOLEAN
+mali                BOOLEAN
+..                  SINGLE_COMMENT
+NOISE WORDS         COMMENT
+ay                  NOISE_WORD
+simula              NOISE_WORD
+wakas               NOISE_WORD
+kaunaunahan         NOISE_WORD
+kaduluduluhan       NOISE_WORD
+puna                NOISE_WORD
+..                  SINGLE_COMMENT
+ARITHMETIC          COMMENT
++                   OPE_ADD
+-                   OPE_SUB
+*                   OPE_MUL
+%                   OPE_MOD
+/                   OPE_DIV
+//                  OPE_INTDIV
+^                   OPE_EXP
+..                  SINGLE_COMMENT
+BOOLEAN             COMMENT
+<                   OPE_LT
+>                   OPE_GT
+<=                  OPE_LTEQUAL
+>=                  OPE_GTEQUAL
+==                  OPE_EQUALTO
+!=                  OPE_NEQUALTO
++=                  OPE_ADDASS
+-=                  OPE_SUBASS
+..                  SINGLE_COMMENT
+LOGICAL             COMMENT
+at                  LOGICAL
+oh                  LOGICAL
+hindi               LOGICAL
+..                  SINGLE_COMMENT
+DELIMETER AND BRACKETCOMMENT
+,                   COMMA
+[                   OPEN_SQR
+]                   CLOSE_SQR
+(                   OPEN_PAREN
+)                   CLOSE_PAREN
+..                  SINGLE_COMMENT
+COMMENTS            COMMENT
+..                  SINGLE_COMMENT
+ comment            COMMENT
+multi               IDENTIFIER
+comment             IDENTIFIER
+-----------------------------------------------------------------
+
