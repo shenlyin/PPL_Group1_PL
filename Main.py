@@ -1,9 +1,10 @@
 import Lexer_Klak
+from tkinter import filedialog
 
-inputPath = r"C:\Users\JM\Documents\Klak Lexer\test.klk"         #Needed File Paths
-outputPath = r"C:\Users\JM\Documents\Klak Lexer\Symbol_Table.txt"
+
 
 def symbolTable(result):   #Output File Creation
+    outputPath = r"C:\Users\JM\Documents\GitHub\PPL_Group1_PL\Symbol_Table.txt"  #Output File
     try:
         outfile = open(outputPath, "r")   #Checks if Output File exist
         outfile.close()
@@ -21,6 +22,8 @@ def symbolTable(result):   #Output File Creation
     return
 
 def Start(): #Starts Program
+    inputPath = filedialog.askopenfilename(initialdir=r"C:\Users\JM\Documents\GitHub\PPL_Group1_PL", title="Choose Klak File",   #Klak File Choosing
+                                     filetypes=(("Klak File","*.klk"),))
     try:
         file = open(inputPath, 'r')
     except IOError as error:
@@ -47,5 +50,6 @@ def Start(): #Starts Program
         symbolTable(result)     #Pass result to Output File Creation
         print("\n_Process Complete_")
         print("=================================================================")  #Ending Design
+
 
 Start()  #Starts Program
