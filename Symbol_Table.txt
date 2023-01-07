@@ -1,0 +1,11 @@
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+ilabas              KEYWORD
+ila2                IDENTIFIER
+ila!                INVALID
+wala                KEYWORD
+wala                KEYWORD
+labasmuna           KEYWORD
+-----------------------------------------------------------------
+
