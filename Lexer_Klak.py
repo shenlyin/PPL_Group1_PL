@@ -146,12 +146,12 @@ class Lexer:
 
     def FMultiCmnt(self): #Multi-Line Comment Checking
         try:
-            self.current_char = self.text[self.pos + 2]   
+            self.current_char = self.text[self.pos + 1]   
         except IndexError:   #No succeeding Comments 
             self.ongoingMulti = 1   #Multi-line not closed
             self.advance()
         else:       
-            self.pos += 2     #Starting Adjustments
+            self.pos += 1     #Starting Adjustments
             self.SMultiCmnt()   #Pass collected Comment
 
     def SMultiCmnt(self):  #Main Creation of multi-line Comments  
@@ -196,8 +196,7 @@ class Lexer:
             elif self.current_char in ' \t': #Spaces detected
                 self.advance()
             elif self.douBoolPass == 1 or self.divPass == 1 or self.dotPass == 1 or self.addPass == 1 or self.subPass == 1:  #Probable Double Operator detected
-                if self.dotPass ==1 and self.current_char in DIGITS: self.tokens.append(self.make_Number())
-                else: self.DoubleOpeChk()
+                self.DoubleOpeChk()
             elif self.current_char == '+':
                 self.addPass = 1
                 self.advance()
@@ -269,25 +268,16 @@ class Lexer:
     def make_Number(self):   #Integer or Float Creation
         num_str = ''
         dot_count = 0
-        if self.dotPass ==1:
-            self.pos -= 2
-            self.advance()
-            self.dotPass = 0
         while self.current_char != None and self.current_char in DIGITS + '.':  #Collection of Numerical Characters
             if self.current_char == '.':   #Float Detected
-                if self.text[self.pos +1] == ".":
-                    self.pos -= 1
-                    break
-                else: dot_count += 1
+                dot_count += 1
+            if dot_count == 2: break
             num_str += self.current_char
             self.advance()
-
         if dot_count == 0:   #Output
             return ([int(num_str), 'INTEGER'])
-        elif dot_count == 1:
+        else:
             return ([float(num_str), 'FLOAT'])
-        else: 
-            return ([num_str, 'INVALID'])
 
     def make_Identifier(self, key_str):
         invalid = 0
@@ -301,52 +291,7 @@ class Lexer:
 
     def make_Word(self):  #Built-in Functions or User-Defined Identifiers Creation
 
-        if self.current_char == 'a':
-            self.advance()
-            if self.current_char == 't':
-                self.advance()
-                if self.current_char == None or self.current_char in " \t":
-                    return (["at", 'LOGICAL'])
-                else:
-                    return self.make_Identifier("at")
-            else:
-                return self.make_Identifier("a")
-
-        elif self.current_char == 'o':
-            self.advance()
-            if self.current_char == 'h':
-                self.advance()
-                if self.current_char == None or self.current_char in " \t":
-                    return (["oh", 'LOGICAL'])
-                else:
-                    return self.make_Identifier("oh")
-            else:
-                return self.make_Identifier("o")
-
-        elif self.current_char == 'h':
-            self.advance()
-            if self.current_char == 'i':
-                self.advance()
-                if self.current_char == 'n':
-                    self.advance()
-                    if self.current_char == 'd':
-                        self.advance()
-                        if self.current_char == 'i':
-                            self.advance()
-                            if self.current_char == None or self.current_char in " \t":
-                                return (["hindi", 'LOGICAL'])
-                            else:
-                                return self.make_Identifier("hindi")
-                        else:
-                            return self.make_Identifier("hind")
-                    else:
-                        return self.make_Identifier("hin")
-                else:
-                    return self.make_Identifier("hi")
-            else:
-                return self.make_Identifier("h")
-
-        elif self.current_char == 'i': 
+        if self.current_char == 'i': 
             self.advance()
             if self.current_char == 'l':
                 self.advance()
@@ -394,7 +339,24 @@ class Lexer:
                         else: return self.make_Identifier("lagy")
                     else: return self.make_Identifier("lag")
                 else: return self.make_Identifier("la")
-            else: return self.make_Identifier("l")
+            if self.current_char == 'u':
+                self.advance()
+                if self.current_char == 't':
+                    self.advance()
+                    if self.current_char == 'a':
+                        self.advance()
+                        if self.current_char == 'n':
+                            self.advance()
+                            if self.current_char == 'g':
+                                self.advance()
+                                if self.current_char == None or self.current_char in " \t":
+                                    return (["lutang", 'RESERVE WORD'])
+                                else: return self.make_Identifier("lutang")
+                            else: return self.make_Identifier("lutan")
+                        else: return self.make_Identifier("luta")
+                    else: return self.make_Identifier("lut")
+                else: return self.make_Identifier("lu")                   
+            else: return self.make_Identifier("l") 
 
         elif self.current_char == 'h':
             self.advance()
@@ -492,13 +454,76 @@ class Lexer:
                     if self.current_char == 'g': 
                         self.advance()
                         if self.current_char == None or self.current_char in " \t":
-                            return (["wala", 'KEYWORD'])
+                            return (["kung", 'KEYWORD'])
                         else: return self.make_Identifier("kung")  
                     else: return self.make_Identifier("kun")          
                 else: return self.make_Identifier("ku")
+            if self.current_char == 'a':
+                self.advance()
+                if self.current_char == 'r':
+                    self.advance()
+                    if self.current_char == 'a':
+                        self.advance()
+                        if self.current_char == 'k':
+                            self.advance()
+                            if self.current_char == 't':
+                                self.advance()
+                                if self.current_char == 'e':
+                                    self.advance()
+                                    if self.current_char == 'r':
+                                        self.advance()
+                                        if self.current_char == None or self.current_char in " \t":
+                                             return (["karakter", 'RESERVE WORD'])
+                                        else: return self.make_Identifier("karakter")
+                                    else: return self.make_Identifier("karakte")
+                                else: return self.make_Identifier("karakt")
+                            else: return self.make_Identifier("karak")
+                        else: return self.make_Identifier("kara")
+                    else: return self.make_Identifier("kar")
+                else: return self.make_Identifier("ka")
             else: return self.make_Identifier("k")
 
+        elif self.current_char == 'n':
+            self.advance()
+            if self.current_char == 'u':
+                self.advance()
+                if self.current_char == 'm':
+                    self.advance()
+                    if self.current_char == 'e':
+                        self.advance()
+                        if self.current_char == 'r':
+                            self.advance()
+                            if self.current_char == 'o':
+                                self.advance()
+                                if self.current_char == None or self.current_char in " \t":
+                                    return (["numero", 'RESERVE WORD'])
+                                else: return self.make_Identifier("numero")
+                            else: return self.make_Identifier("numer")
+                        else: return self.make_Identifier("nume")
+                    else: return self.make_Identifier("num")
+                else: return self.make_Identifier("nu")
+            else: return self.make_Identifier("n")
 
+        elif self.current_char == 's':
+            self.advance()
+            if self.current_char == 'a':
+                self.advance()
+                if self.current_char == 'l':
+                    self.advance()
+                    if self.current_char == 'i':
+                        self.advance()
+                        if self.current_char == 't':
+                            self.advance()
+                            if self.current_char == 'a':
+                                self.advance()
+                                if self.current_char == None or self.current_char in " \t":
+                                    return (["salita", 'RESERVE WORD'])
+                                else: return self.make_Identifier("salita")
+                            else: return self.make_Identifier("salit")
+                        else: return self.make_Identifier("sali")
+                    else: return self.make_Identifier("sal")
+                else: return self.make_Identifier("sa")
+            else: return self.make_Identifier("s")
 
 
 def run(text, multiLine):         #Starts Program
