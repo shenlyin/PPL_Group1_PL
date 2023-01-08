@@ -9,3 +9,15 @@ wala                KEYWORD
 labasmuna           KEYWORD
 -----------------------------------------------------------------
 
+SYMBOL TABLE
+-----------------------------------------------------------------
+LEXEME              TOKEN
+ilimbsd             IDENTIFIER
+ilimbag             KEYWORD
+ilimbags            KEYWORD
+ilimbags2           IDENTIFIER
+ilimbag2            IDENTIFIER
+ilimbag!            INVALID
+il1mbag             IDENTIFIER
+-----------------------------------------------------------------
+
